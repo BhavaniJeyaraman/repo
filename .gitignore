@@ -1,0 +1,12 @@
+
+#git ignore file
+
+#ignore file name called 'new.rtf'
+
+new.rtf
+
+
+#ignore all .txt files
+
+*.txt
+
